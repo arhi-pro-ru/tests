@@ -1,7 +1,11 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/maintenance.svg">
-    <HelloWorld msg="Добро пожаловать в проект тестирования созданный на прекрасном Vue.js App"/>
+    <div id="nav">
+      <router-link to="/">В начало опросника</router-link> |
+      <router-link to="/about">Пройти опрос</router-link>
+    </div>
+    <img alt="проект тестирования" src="../assets/maintenance.svg">
+    <HelloWorld msg="Добро пожаловать!"/>
   </div>
 </template>
 

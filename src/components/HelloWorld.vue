@@ -3,34 +3,51 @@
     <h1>{{ msg }}</h1>
     <p>
       Это упрощенный проект тестирования: Определение типичных способов поведения и личностных характеристик
-      <a href="https://cli.vuejs.org" target="_blank" rel="noopener">Для тех кто сможет прочитать код - добро пожаловать на страницу исходника</a>.
+      <br><a href="https://github.com/arhi-pro-ru/tests" target="_blank" rel="noopener">Для тех кто сможет прочитать исходный код - загляните на страницу исходника</a>.
     </p>
+    <p>Помните! Никакие тесты, в том числе и тест на определение типа личности, не дают полной гарантии, что ваш социотип будет определён верно.<br>Подобный опрос формирует результат, основываясь на вашем мнении о себе, которое зачастую довольно субъективно.</p>
+    <button>
+      <h1><router-link to="/about">Пройти опрос</router-link></h1>
+    </button>
+    <h2>Настоящий опрос является первой частью Опросника Архи-Про(опросника архипрофессионала).</h2>
+    <p>Итоги данного Опросника Архи-Про дают нам: профессионала, которому по темпераменту рекомендовано быть архи; профессионала склонного к профессиональным коммуникациям и с соответствующим уровнем организаторских склонностей; с соответствующим поведением в конфликтной ситуации; мотивации к труду и поведением в процессе труда на должном уровне; он лоялен и не истощён.</p>
+    <p>Для полноценной интерпретации первых данных, полученных при исследовании типа темперамента, необходимо располагать хотя бы минимумом сведений об особенностях жизненного пути испытуемого, о его поведении и характере, условиях воспитания и обучения, о ближайшем социальном окружении. Это дает возможность сделать обоснованное диагностическое заключение и дать необходимые рекомендации.</p>
+    <h3>Первый тест лишь отнесет вас в одну из двух групп: Экстраверты и Интроверты</h3>
     <h3>Экстраверты</h3>
     <p>Экстраверт — это психотип личности, с ярко выраженной направленностью на постоянное взаимодействие с окружающими людьми.</p>
     <ul>
-      <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-babel" target="_blank" rel="noopener">babel</a></li>
-      <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-pwa" target="_blank" rel="noopener">pwa</a></li>
-      <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-router" target="_blank" rel="noopener">router</a></li>
-      <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-vuex" target="_blank" rel="noopener">vuex</a></li>
-      <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-eslint" target="_blank" rel="noopener">eslint</a></li>
+      <li><a href="https://arhi-pro.org/" target="_blank" rel="noopener">ESTP</a></li>
+      <li><a href="https://arhi-pro.org/" target="_blank" rel="noopener">ESTJ</a></li>
+      <li><a href="https://arhi-pro.org/" target="_blank" rel="noopener">ESFP</a></li>
+      <li><a href="https://arhi-pro.org/" target="_blank" rel="noopener">ESFJ</a></li>
+      <li><a href="https://arhi-pro.org/" target="_blank" rel="noopener">ENTJ</a></li>
+      <li><a href="https://arhi-pro.org/" target="_blank" rel="noopener">ENFP</a></li>
+      <li><a href="https://arhi-pro.org/" target="_blank" rel="noopener">ENFJ</a></li>
+      <li><a href="https://arhi-pro.org/" target="_blank" rel="noopener">ENTP</a></li>
     </ul>
     <h3>Интроверты</h3>
     <p>Интроверт – это психологический тип личности, замкнутого внутри своего собственного мира человека, который меньше взаимодействует с внешним миром нежели с внутренним.</p>
     <ul>
-      <li><a href="https://vuejs.org" target="_blank" rel="noopener">Core Docs</a></li>
-      <li><a href="https://forum.vuejs.org" target="_blank" rel="noopener">Forum</a></li>
-      <li><a href="https://chat.vuejs.org" target="_blank" rel="noopener">Community Chat</a></li>
-      <li><a href="https://twitter.com/vuejs" target="_blank" rel="noopener">Twitter</a></li>
-      <li><a href="https://news.vuejs.org" target="_blank" rel="noopener">News</a></li>
+      <li><a href="https://arhi-pro.org/" target="_blank" rel="noopener">ISTP</a></li>
+      <li><a href="https://arhi-pro.org/" target="_blank" rel="noopener">ISTJ</a></li>
+      <li><a href="https://arhi-pro.org/" target="_blank" rel="noopener">ISFP</a></li>
+      <li><a href="https://arhi-pro.org/" target="_blank" rel="noopener">ISFJ</a></li>
+      <li><a href="https://arhi-pro.org/" target="_blank" rel="noopener">INTP</a></li>
+      <li><a href="https://arhi-pro.org/" target="_blank" rel="noopener">INTJ</a></li>
+      <li><a href="https://arhi-pro.org/" target="_blank" rel="noopener">INFP</a></li>
+      <li><a href="https://arhi-pro.org/" target="_blank" rel="noopener">INFJ</a></li>
     </ul>
     <h3>Другие опросники</h3>
     <ul>
-      <li><a href="https://router.vuejs.org" target="_blank" rel="noopener">vue-router</a></li>
-      <li><a href="https://vuex.vuejs.org" target="_blank" rel="noopener">vuex</a></li>
-      <li><a href="https://github.com/vuejs/vue-devtools#vue-devtools" target="_blank" rel="noopener">vue-devtools</a></li>
-      <li><a href="https://vue-loader.vuejs.org" target="_blank" rel="noopener">vue-loader</a></li>
-      <li><a href="https://github.com/vuejs/awesome-vue" target="_blank" rel="noopener">awesome-vue</a></li>
+      <li>уровень коммуникативных и уровень организаторских склонностей</li>
+      <li>поведение в конфликтной ситуации</li>
+      <li>мотивации и трудового поведения</li>
+      <li>лояльное отношение к организации</li>
+      <li>истощение и выгорание</li>
     </ul>
+    <button>
+      <h1><router-link to="/about">Пройти опрос</router-link></h1>
+    </button>
   </div>
 </template>
 
