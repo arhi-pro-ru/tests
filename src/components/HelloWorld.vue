@@ -12,30 +12,30 @@
     <h2>Настоящий опрос является первой частью Опросника Архи-Про(опросника архипрофессионала).</h2>
     <p>Итоги данного Опросника Архи-Про дают нам: профессионала, которому по темпераменту рекомендовано быть архи; профессионала склонного к профессиональным коммуникациям и с соответствующим уровнем организаторских склонностей; с соответствующим поведением в конфликтной ситуации; мотивации к труду и поведением в процессе труда на должном уровне; он лоялен и не истощён.</p>
     <p>Для полноценной интерпретации первых данных, полученных при исследовании типа темперамента, необходимо располагать хотя бы минимумом сведений об особенностях жизненного пути испытуемого, о его поведении и характере, условиях воспитания и обучения, о ближайшем социальном окружении. Это дает возможность сделать обоснованное диагностическое заключение и дать необходимые рекомендации.</p>
-    <h3>Первый тест лишь отнесет вас в одну из двух групп: Экстраверты и Интроверты</h3>
+    <h3>Первый тест лишь отнесет вас в одну из групп:</h3>
     <h3>Экстраверты</h3>
     <p>Экстраверт — это психотип личности, с ярко выраженной направленностью на постоянное взаимодействие с окружающими людьми.</p>
     <ul>
-      <li><a href="https://arhi-pro.org/" target="_blank" rel="noopener">ESTP</a></li>
-      <li><a href="https://arhi-pro.org/" target="_blank" rel="noopener">ESTJ</a></li>
-      <li><a href="https://arhi-pro.org/" target="_blank" rel="noopener">ESFP</a></li>
-      <li><a href="https://arhi-pro.org/" target="_blank" rel="noopener">ESFJ</a></li>
-      <li><a href="https://arhi-pro.org/" target="_blank" rel="noopener">ENTJ</a></li>
-      <li><a href="https://arhi-pro.org/" target="_blank" rel="noopener">ENFP</a></li>
-      <li><a href="https://arhi-pro.org/" target="_blank" rel="noopener">ENFJ</a></li>
-      <li><a href="https://arhi-pro.org/" target="_blank" rel="noopener">ENTP</a></li>
+      <li><a href="https://arhi-pro.ru/estp-type/" target="_blank" rel="noopener">ESTP</a></li>
+      <li><a href="https://arhi-pro.ru/estj-type/" target="_blank" rel="noopener">ESTJ</a></li>
+      <li><a href="https://arhi-pro.ru/esfp-type/" target="_blank" rel="noopener">ESFP</a></li>
+      <li><a href="https://arhi-pro.ru/esfj-type/" target="_blank" rel="noopener">ESFJ</a></li>
+      <li><a href="https://arhi-pro.ru/entj-type/" target="_blank" rel="noopener">ENTJ</a></li>
+      <li><a href="https://arhi-pro.ru/enfp-type/" target="_blank" rel="noopener">ENFP</a></li>
+      <li><a href="https://arhi-pro.ru/enfj-type/" target="_blank" rel="noopener">ENFJ</a></li>
+      <li><a href="https://arhi-pro.ru/entp-type/" target="_blank" rel="noopener">ENTP</a></li>
     </ul>
     <h3>Интроверты</h3>
     <p>Интроверт – это психологический тип личности, замкнутого внутри своего собственного мира человека, который меньше взаимодействует с внешним миром нежели с внутренним.</p>
     <ul>
-      <li><a href="https://arhi-pro.org/" target="_blank" rel="noopener">ISTP</a></li>
-      <li><a href="https://arhi-pro.org/" target="_blank" rel="noopener">ISTJ</a></li>
-      <li><a href="https://arhi-pro.org/" target="_blank" rel="noopener">ISFP</a></li>
-      <li><a href="https://arhi-pro.org/" target="_blank" rel="noopener">ISFJ</a></li>
-      <li><a href="https://arhi-pro.org/" target="_blank" rel="noopener">INTP</a></li>
-      <li><a href="https://arhi-pro.org/" target="_blank" rel="noopener">INTJ</a></li>
-      <li><a href="https://arhi-pro.org/" target="_blank" rel="noopener">INFP</a></li>
-      <li><a href="https://arhi-pro.org/" target="_blank" rel="noopener">INFJ</a></li>
+      <li><a href="https://arhi-pro.ru/istp-type/" target="_blank" rel="noopener">ISTP</a></li>
+      <li><a href="https://arhi-pro.ru/istj-type/" target="_blank" rel="noopener">ISTJ</a></li>
+      <li><a href="https://arhi-pro.ru/isfp-type/" target="_blank" rel="noopener">ISFP</a></li>
+      <li><a href="https://arhi-pro.ru/isfj-type/" target="_blank" rel="noopener">ISFJ</a></li>
+      <li><a href="https://arhi-pro.ru/intp-type/" target="_blank" rel="noopener">INTP</a></li>
+      <li><a href="https://arhi-pro.ru/intj-type/" target="_blank" rel="noopener">INTJ</a></li>
+      <li><a href="https://arhi-pro.ru/infp-type/" target="_blank" rel="noopener">INFP</a></li>
+      <li><a href="https://arhi-pro.ru/infj-type/" target="_blank" rel="noopener">INFJ</a></li>
     </ul>
     <h3>Другие опросники</h3>
     <ul>

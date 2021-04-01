@@ -18,16 +18,16 @@
 
     </section>
     <ISTP v-if="addListResult === 'ISTP'" /> <!--   -->
-    <ISTJ v-if="addListResult === 'ISTJ'" /><!--   -->
+    <ISTJ v-if="addListResult === 'ISTJ'" /> <!--   -->
     <ISFP v-if="addListResult === 'ISFP'" /> <!--   -->
     <ISFJ v-if="addListResult === 'INTP'" /> <!--   -->
     <INTP v-if="addListResult === 'INTP'" /> <!--   -->
-    <INTJ v-if="addListResult === 'INTJ'" /> <!--   -->
-    <INFP v-if="addListResult === 'INFP'" /> <!--   -->
-    <INFJ v-if="addListResult === 'INFJ'" /> <!--   -->
-    <ESTP v-if="addListResult === 'ESTP'" /> <!--   -->
-    <ESTJ v-if="addListResult === 'ESTJ'" /> <!--   -->
-    <ESFP v-if="addListResult === 'ESFP'" /> <!--   -->
+    <INTJ v-if="addListResult === 'INTJ'" /> <!-- INTJ  -->
+    <INFP v-if="addListResult === 'INFP'" /> <!-- INFP  -->
+    <INFJ v-if="addListResult === 'INFJ'" /> <!-- INFJ  -->
+    <ESTP v-if="addListResult === 'ESTP'" /> <!-- ESTP  -->
+    <ESTJ v-if="addListResult === 'ESTJ'" /> <!-- ESTJ  -->
+    <ESFP v-if="addListResult === 'ESFP'" /> <!-- ESFP  -->
     <ENTP v-if="addListResult === 'ENTP'" /> <!-- ENTP  -->
     <ESFJ v-if="addListResult === 'ESFJ'" /> <!-- ESFJ  -->
     <ENTJ v-if="addListResult === 'ENTJ'" /> <!-- ENTJ  -->
@@ -69,8 +69,8 @@ export default {
     P () { return this.$store.state.P },
     addListResult () {
       let result = [];
-      if ((this.$store.state.E === 0 | this.$store.state.I === 0) || (this.$store.state.S === 0 | this.$store.state.N === 0) || (this.$store.state.T === 0 | this.$store.state.F === 0) || (this.$store.state.J === 0 | this.$store.state.P === 0)) {result.push('STOP')}
-      else {
+      // if ((this.$store.state.E === 0 | this.$store.state.I === 0) || (this.$store.state.S === 0 | this.$store.state.N === 0) || (this.$store.state.T === 0 | this.$store.state.F === 0) || (this.$store.state.J === 0 | this.$store.state.P === 0)) {result.push('STOP')}
+      // else {
         if (this.$store.state.E>this.$store.state.I) {result.push('E')}
           else {result.push('I')}
         if (this.$store.state.S>this.$store.state.N) {result.push('S')}
@@ -79,7 +79,7 @@ export default {
           else {result.push('F')}
         if (this.$store.state.J>this.$store.state.P) {result.push('J')}
           else {result.push('P')}
-      }
+      // }
       return result.join('')
     }
   },
